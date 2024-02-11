@@ -1,1 +1,1 @@
-My first attemt with sql tk in python
+Library management system with database structure for storing, renting and archive books.
